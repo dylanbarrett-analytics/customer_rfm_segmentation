@@ -1,3 +1,5 @@
+![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue) ![SQL](https://img.shields.io/badge/Data-Preparation_SQL-informational)
+
 # Customer RFM Segmentation Analysis
 
 ## Project Overview
