@@ -1,4 +1,4 @@
-![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue) ![Data](https://img.shields.io/badge/Data-Preparation-informational) ![SQL](https://img.shields.io/badge/Language-SQL-blue)
+[![Visualization](https://img.shields.io/badge/Visualization-Tableau-blue)](https://public.tableau.com/app/profile/dylan.barrett1539) [![Data Preparation](https://img.shields.io/badge/Data%20Preparation-SQL-informational)](https://public.tableau.com/app/profile/dylan.barrett1539)
 
 # Customer RFM Segmentation Analysis
 
